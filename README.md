@@ -28,4 +28,4 @@ This project is maintained by [Callum Whyte](https://callumwhyte.com/) and contr
 
 Copyright &copy; 2018 [Callum Whyte](https://callumwhyte.com/), and other contributors
 
-Licensed under the MIT License.
+Licensed under the [MIT License](LICENSE.md).
