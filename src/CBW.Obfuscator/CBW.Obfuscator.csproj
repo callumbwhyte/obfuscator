@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>CBW.Obfuscator</AssemblyName>
+    <RootNamespace>CBW.Obfuscator</RootNamespace>
+    <Authors>Callum Whyte</Authors>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>Copyright © 2018 Callum Whyte, and other contributors</Copyright>
+    <Product>Obfuscator</Product>
+    <PackageProjectUrl>https://github.com/callumbwhyte/obfuscator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/callumbwhyte/obfuscator</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags></PackageTags>
+    <PackageLicenseUrl>https://github.com/callumbwhyte/obfuscator/blob/master/LICENSE.md</PackageLicenseUrl>
+    <Description>A lightweight, pluggable .NET library for easily obfuscating the values of properties.</Description>
+    <NeutralLanguage>en</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>
