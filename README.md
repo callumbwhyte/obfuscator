@@ -1,6 +1,8 @@
 # Obfuscator for .NET
 
-A lightweight, pluggable .NET library for easily obfuscating the values of properties.
+[![Build status](https://ci.appveyor.com/api/projects/status/sqqra9vgu5dgfsuq/branch/master?svg=true)](https://ci.appveyor.com/project/mzajkowski/obfuscator/branch/master)
+
+**A lightweight, pluggable .NET library for easily obfuscating the values of properties.**
 
 ## Getting started
 
@@ -19,7 +21,6 @@ This project is maintained by [Callum Whyte](https://callumwhyte.com/) and contr
 
 ## To do
 
-* AppVeyor setup
 * NuGet release
 * Usage instructions
 * Configure mapping of properties to obfuscators in code
